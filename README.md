@@ -1,7 +1,7 @@
 <h1 align="center">Godown Procuretech Pvt Lmt</h1>
 
 <p align="center">
-  <b>Industrial procurement, from indent to invoice.</b><br>
+  <b>Industrial procurement, from indent, sourcing, to after sales.</b><br>
   <a href="https://godown.world">godown.world</a>
 </p>
 
