@@ -21,19 +21,7 @@ Industrial buying still runs mostly on phone calls, spreadsheets and long email 
 
 ## How it works
 
-1. **Request.** A plant raises a material request (an indent) and gets it approved.
-2. **Source.** Godown collects competing quotes from suppliers.
-3. **Order.** The buyer picks the best offer and places the order.
-4. **Deliver and support.** Goods arrive, invoices and payments are tracked, and returns and after-sales issues are handled.
-
-## Our products
-
-| Product | Who it's for | What it does |
-| --- | --- | --- |
-| **Procurement OS** | Manufacturers | Raise indents, compare quotes, place orders and track deliveries. |
-| **Aapka Godown** | Manufacturers | "Your Godown": buy directly from Godown's own catalogue. |
-| **Vendor Platform** | Suppliers | Quote requests, orders, catalogue and performance in one place. |
-| **Partner Platform** | Partners | Referrals, activity, points and payouts. |
+Tell us what you need. We find the right supplier at a fair price and look after the order from start to finish, including any help you need after delivery.
 
 ## Get in touch
 
